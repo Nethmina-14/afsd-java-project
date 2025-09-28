@@ -32,6 +32,9 @@ public class Task {
             System.out.println("Hello..");
         }
 
+        for (int i=0; i<11; i++){
+            System.out.println("Hiii");
+        }
 
 
         System.out.println("Average score is : "+(totalScore/11));
