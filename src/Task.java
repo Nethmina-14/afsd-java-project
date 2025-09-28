@@ -36,6 +36,7 @@ public class Task {
             System.out.println("Hiii");
         }
 
+        System.out.println("Hello world");
 
         System.out.println("Average score is : "+(totalScore/11));
         System.out.println("Highest score is : "+scores);
