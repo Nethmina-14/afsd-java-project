@@ -26,6 +26,14 @@ public class Task {
             }
 
         }
+        if (4<5){
+            System.out.print("Hiiii..");
+        }else {
+            System.out.println("Hello..");
+        }
+
+
+
         System.out.println("Average score is : "+(totalScore/11));
         System.out.println("Highest score is : "+scores);
         System.out.println("Hellooo.....");
